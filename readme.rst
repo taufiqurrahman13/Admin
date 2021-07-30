@@ -1,5 +1,5 @@
 ###################
-Admin Housrent
+Admin House Rental
 ###################
 
 Ini gw buat branch baru namanya master, supaya bisa dilihat perbedaan file nya. banyak file yang ngga lu upload, kaya folder system CI lupa lu upload, jadinya controller yg lu kirim ke gw kaga bisa kebaca.
